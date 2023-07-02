@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shajadh
-- 👀 I’m interested in Electrical Engineering and Computer Programming
-- 🌱 I’m currently learning Python, VHDL, Verilog
-- 💞️ I’m looking to collaborate on Building ASIC and Other FPGA related projects
+- 👀 I’m interested in Electrical Engineering Graduate with immense interest in Coding 
+- 🌱 I’m currently a Fullstack Developer
 - 📫 How to reach me? Just DM 
 
 <!---
